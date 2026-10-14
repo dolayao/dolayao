@@ -39,6 +39,6 @@ I'm always up for talking about software architecture, AI-assisted engineering, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dolayao)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dolayao)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dolayao)
-![Cursor](https://img.shields.io/badge/Cursor-@dolayas-000000?style=for-the-badge&logo=cursor&logoColor=white)
+[![Cursor](https://img.shields.io/badge/Cursor-@dolayas-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/@dolayas)
 
 📍 Colombia
