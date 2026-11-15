@@ -2,7 +2,7 @@
 
 <img src="./assets/h-hello.png" alt="Hey, I'm Deiby" width="800">
 
-I architect software and set up the AI agents that build it. Every day I pair with agents: they write the code, I own the architecture, the constraints, and the decisions.
+I architect software and set up the AI agents that build it. Every day I pair with Claude and other AI tools: they write the code, I own the architecture, the constraints, and the decisions.
 
 I'm also building services that live where people already work: APIs and tools that clients connect to their own Claude or ChatGPT subscription, so they can use our product straight from the chat.
 
@@ -40,6 +40,4 @@ I'm always up for talking about software architecture, AI agents, MCP, or fronte
 <a href="https://www.linkedin.com/in/dolayao"><img src="./assets/btn-linkedin.png" alt="LinkedIn" height="60"></a>
 <a href="https://github.com/dolayao"><img src="./assets/btn-github.png" alt="GitHub" height="60"></a>
 <a href="https://gitlab.com/dolayao"><img src="./assets/btn-gitlab.png" alt="GitLab" height="60"></a>
-<a href="https://cursor.com/@dolayas"><img src="./assets/btn-cursor.png" alt="Cursor" height="60"></a>
-
 📍 Colombia
