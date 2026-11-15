@@ -1,23 +1,24 @@
-<img src="./cover.png" alt="Deiby Olaya, Lead Product Engineer & Software Architect" width="100%">
+<img src="./cover.png" alt="Deiby Olaya: I architect. Agents build. Lead Product Engineer & Software Architect" width="100%">
 
 <img src="./assets/h-hello.png" alt="Hey, I'm Deiby" width="800">
 
-I design the systems that let software get built fast, and lately, the ones that let **AI agents build it with us**.
+I architect software and set up the AI agents that build it. Every day I pair with agents: they write the code, I own the architecture, the constraints, and the decisions.
 
-I started out writing frontend and mobile code. Over time I got more interested in what sits around the code: the architecture, the data contracts, and the middleware that decide whether a team moves fast or gets stuck.
+I'm also building services that live where people already work: APIs and tools that clients connect to their own Claude or ChatGPT subscription, so they can use our product straight from the chat.
 
 <img src="./assets/h-into.png" alt="What I'm into right now" width="800">
 
-- 🤖 **AI-agent development workflows**: figuring out how engineering teams can plug autonomous agents into their pipelines without losing control of quality
-- 📐 **Spec-Driven Development**: when the spec is solid, humans and agents can both build from it
-- 🧱 **Clean Architecture & BFF layers**: shaping complex APIs into the exact data a React, Svelte, or Vue app needs
-- 🗺️ **Domain-Driven Design**: keeping software aligned with the problem it solves
+- 🤝 **Organic Driven Development (ODD)**: pair programming with AI agents where the process emerges from the work. Small change? Just do it. Uncertain? Research first. Substantial? Add structure. The idea comes from [Gentle AI](https://github.com/Gentleman-Programming/gentle-ai) by Alan Buscaglia (Gentleman Programming), and this is how I apply it
+- 🧩 **Agents & MCP**: configuring agents and building MCP servers that connect apps and APIs to AI
+- 🔌 **AI-native services**: shipping APIs that clients use directly from Claude or ChatGPT with their own subscription
+- 🧱 **Architecture**: Clean Architecture, BFF layers, and DDD, the part I care about most
 
 <img src="./assets/h-build.png" alt="How I like to build" width="800">
 
-- Architecture first, code second
+- Architecture first, agents write the code
+- Humans make the decisions, agents do the typing
+- Structure that emerges with the work, not before it
 - Clear contracts between frontend, backend, and agents
-- Fewer surprises, faster delivery
 
 <img src="./assets/h-stack.png" alt="My toolbox" width="800">
 
@@ -34,7 +35,7 @@ Also in the mix:
 
 <img src="./assets/h-connect.png" alt="Say hi" width="800">
 
-I'm always up for talking about software architecture, AI-assisted engineering, or frontend systems.
+I'm always up for talking about software architecture, AI agents, MCP, or frontend systems.
 
 <a href="https://www.linkedin.com/in/dolayao"><img src="./assets/btn-linkedin.png" alt="LinkedIn" height="60"></a>
 <a href="https://github.com/dolayao"><img src="./assets/btn-github.png" alt="GitHub" height="60"></a>
